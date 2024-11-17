@@ -5,8 +5,8 @@
 💻 Passionate about coding and building innovative solutions.
 
 ***🛠️ Tech Stack*** </br>
-Frontend: ***React, Next.js*** </br>
-Backend: ***Spring Boot, Java*** </br>
+Frontend: ***`React, Next.js`*** </br>
+Backend: ***Spring Boot 🍃 , Java*** </br>
 Programming: ***C, Java*** </br>
 
 🌟 Always learning, exploring, and striving to create impactful projects! </br>
