@@ -1,7 +1,7 @@
 
 
 ## 👋 Hi there, I'm Bassem Samaali!
-🎓 A Business Intelligence student at FSEGT.
+🎓 A Business Intelligence student at FSEGT. </br>
 💻 Passionate about coding and building innovative solutions.
 
 🛠️ Tech Stack
