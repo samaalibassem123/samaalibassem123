@@ -5,7 +5,7 @@
 💻 Passionate about coding and building innovative solutions.
 
 ***🛠️ Tech Stack*** </br>
-Frontend: **`⚛️React, 🇳 Next.js, ✨tailwindcss`** </br>
+Frontend: **`⚛️React, 🇳 Next.js, ✨taillwindcss`** </br>
 Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
 Programming: **`C, ☕Java`** </br>
 
