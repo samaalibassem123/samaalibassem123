@@ -7,7 +7,7 @@
 ***🛠️ Tech Stack*** </br>
 Frontend: **`⚛️React, 🇳 Next.js, ✨tailwindcss`** </br>
 Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
-Programming: **`C, ☕Java`** </br>
+Programming: **`C, ☕Java, 🐉python`** </br>
 
 🌟 ***Always learning, exploring, and striving to create impactful projects!*** </br>
 📫 ***Let's connect and collaborate!***</br>
