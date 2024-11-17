@@ -4,7 +4,7 @@
 🎓 A Business Intelligence student at FSEGT. </br>
 💻 Passionate about coding and building innovative solutions.
 
-##***🛠️ Tech Stack*** </br>
+## 🛠️ Tech Stack
 Frontend: **`⚛️React, 🇳 Next.js, ✨tailwindcss`** </br>
 Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
 Programming: **`C, ☕Java, 🐉python`** </br>
