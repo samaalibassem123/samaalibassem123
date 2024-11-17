@@ -9,11 +9,12 @@ Frontend: **`⚛️React, 🇳 Next.js, ✨tailwindcss`** </br>
 Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
 Programming: **`C, ☕Java`** </br>
 
-</br>
-![Animated GIF demo](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611jy0obaeexnz8kca7v8z3ipdifzbcnxsn8brr07mo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-</br>
 🌟 ***Always learning, exploring, and striving to create impactful projects!*** </br>
 📫 ***Let's connect and collaborate!***</br>
+</br></br>
+![Animated GIF demo](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611jy0obaeexnz8kca7v8z3ipdifzbcnxsn8brr07mo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 <!--
 **samaalibassem123/samaalibassem123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
