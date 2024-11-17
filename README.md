@@ -4,10 +4,10 @@
 🎓 A Business Intelligence student at FSEGT. </br>
 💻 Passionate about coding and building innovative solutions.
 
-🛠️ Tech Stack
-Frontend: **React, Next.js**
-Backend: Spring Boot, Java
-Programming: C, Java
+***🛠️ Tech Stack***
+Frontend: ***React, Next.js***
+Backend: ***Spring Boot, Java***
+Programming: ***C, Java***
 
 🌟 Always learning, exploring, and striving to create impactful projects!
 📫 Let's connect and collaborate!
