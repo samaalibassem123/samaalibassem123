@@ -10,7 +10,10 @@ Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
 Programming: **`C, ☕Java, 🐉python`** </br>
 
 🌟 ***Always learning, exploring, and striving to create impactful projects!*** </br>
-📫 ***Let's connect and collaborate!***</br>
+📫 ***Let's connect and collaborate!*** </br>
+
+## ***learning Jupyter notebook, pandas , numpy, TenserFlow  ==> Loading...(Machine Learning)***
+
 </br>
 ![Animated GIF demo](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif?cid=790b7611jy0obaeexnz8kca7v8z3ipdifzbcnxsn8brr07mo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
