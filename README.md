@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Bassem Samaali!
-##🎓 A Business Intelligence student at FSEGT. </br>
+## 🎓 A Business Intelligence student at FSEGT. </br>
 ## 💻 Passionate about coding and building innovative solutions.
 
 # 🛠️ Tech Stack
-### Data Analysis: ⚙️ Pandas, 📊 NumPy </br>
-### Machine Learning: 🔍 Scikit-learn, 📓 Jupyter Notebook </br>
-### Web: ⚛️ React, 🇳 Next.js, ✨ Tailwind CSS </br>
-### Programming: C, ☕ Java, 🐉 Python </br>
+Data Analysis: ⚙️ Pandas, 📊 NumPy </br>
+Machine Learning: 🔍 Scikit-learn, 📓 Jupyter Notebook </br>
+Web: ⚛️ React, 🇳 Next.js, ✨ Tailwind CSS </br>
+Programming: C, ☕ Java, 🐉 Python </br>
 
 
 #### 🌟 Always learning, exploring, and striving to create impactful projects! </br>
