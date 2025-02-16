@@ -1,19 +1,16 @@
+# 👋 Hi there, I'm Bassem Samaali!
+##🎓 A Business Intelligence student at FSEGT. </br>
+## 💻 Passionate about coding and building innovative solutions.
+
+# 🛠️ Tech Stack
+### Data Analysis: ⚙️ Pandas, 📊 NumPy </br>
+### Machine Learning: 🔍 Scikit-learn, 📓 Jupyter Notebook </br>
+### Web: ⚛️ React, 🇳 Next.js, ✨ Tailwind CSS </br>
+### Programming: C, ☕ Java, 🐉 Python </br>
 
 
-## 👋 Hi there, I'm Bassem Samaali!
-🎓 A Business Intelligence student at FSEGT. </br>
-💻 Passionate about coding and building innovative solutions.
-
-## 🛠️ Tech Stack
-Frontend: **`⚛️React, 🇳 Next.js, ✨tailwindcss`** </br>
-Backend: **`Restful API with 🍃Spring Boot, 🇳 Next.js`** </br>
-Programming: **`C, ☕Java, 🐉python`** </br>
-
-🌟 ***Always learning, exploring, and striving to create impactful projects!*** </br>
-📫 ***Let's connect and collaborate!*** </br>
-
-***learning Jupyter notebook, pandas , numpy, TenserFlow  ==> Loading...(Machine Learning)***
-
+#### 🌟 Always learning, exploring, and striving to create impactful projects! </br>
+#### 📫 Let's connect and collaborate! </br>
 
 
 
