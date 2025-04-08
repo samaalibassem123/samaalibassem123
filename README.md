@@ -3,8 +3,8 @@
 ## 💻 *Passionate about coding and building innovative solutions.*
 
 # 🛠️ Tech Stack
-*Data Analysis: ⚙️ `Pandas`, 📊 `NumPy`*</br>
-*Machine Learning: 🔍 `Scikit-learn`, 📓 `Jupyter Notebook`* </br>
+*Data Analysis:  🐍`python`,⚙️`Pandas`, 📊 `NumPy`, 📓 `Jupyter Notebook`*</br>
+*Machine Learning: 🔍 `Scikit-learn`, * </br>
 *Web: ⚛️`React`, 🇳 `Next.js`, ✨ `Tailwind CSS`* </br>
 *Programming: `C`, ☕ `Java`, 🐉 `Python`* </br>
 
