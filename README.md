@@ -5,7 +5,7 @@
 # 🛠️ Tech Stack
 *Data Analysis:  🐍`python`,⚙️`Pandas`, 📊 `NumPy`, 📓 `Jupyter Notebook`*</br>
 *Machine Learning: 🔍 `Scikit-learn`*</br>
-*Web: ⚛️`React`, 🇳 `Next.js`, ✨ `Tailwind CSS`* </br>
+*Web: ⚛️`React`, 🇳 `Next.js`, ✨ `Tailwind CSS`, `Supabase`* </br>
 *Programming: `C`, ☕ `Java`, 🐉 `Python`* </br>
 
 
