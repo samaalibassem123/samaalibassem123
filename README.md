@@ -1,30 +1,22 @@
-# 👋 Hi there, I'm Bassem Samaali!
-## 🎓 *A Business Intelligence student at FSEGT.* </br>
-## 💻 *Passionate about coding and building innovative solutions.*
+# 👋 Hi there, I'm Bassem Samaali
 
-# 🛠️ Tech Stack
-*Data Analysis:  🐍`python`,⚙️`Pandas`, 📊 `NumPy`, 📓 `Jupyter Notebook`*</br>
-*Machine Learning: 🔍 `Scikit-learn`*</br>
-*Web: ⚛️`React`, 🇳 `Next.js`, ✨ `Tailwind CSS`, `Supabase`* </br>
-*Programming: `C`, ☕ `Java`, 🐉 `Python`* </br>
+I'm a **Full-Stack Web Developer** and a **Business Intelligence student**, passionate about building modern, responsive, and user-focused web applications.
 
+### 💻 Tech Stack
+- **WEB**: React, Next.js, TypeScript, JavaScript, TailwindCSS, HTML, CSS
+- **Database**: MySQL, Supabase, Oracle
+- **Tools**: Git, GitHub, VS Code
 
-#### 🌟 *Always learning, exploring, and striving to create impactful projects!* </br>
-#### 📫 *Let's connect and collaborate!* </br>
+### 🌱 Currently Learning
+- Angular
+- TypeScript best practices
+- Building AI agents with Python
 
+### 📚 Student Life
+I'm currently studying Business Intelligence and working on real-world projects to bridge theory and practice, focusing mainly on **web development**.
 
+### 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bassem-samaali/))
+- 📬 Email: samaalibassem123@gmail.com
 
-<!--
-**samaalibassem123/samaalibassem123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 😊
