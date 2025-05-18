@@ -16,7 +16,7 @@ I'm a **Full-Stack Web Developer** and a **Business Intelligence student**, pass
 I'm currently studying Business Intelligence and working on real-world projects to bridge theory and practice, focusing mainly on **web development**.
 
 ### 📫 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bassem-samaali/))
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bassem-samaali/)])
 - 📬 Email: samaalibassem123@gmail.com
 
 Thanks for stopping by! 😊
