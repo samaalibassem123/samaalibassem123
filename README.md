@@ -20,7 +20,7 @@ I'm a **Full-Stack Web Developer** and a **Business Intelligence student**, pass
 
 ### 🌱 Currently Learning
 
-📌 Angular  
+📌 Nestjs  
 🛠️ TypeScript Best Practices  
 🤖 Building AI Agents with Python
 
