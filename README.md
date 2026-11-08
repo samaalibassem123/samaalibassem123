@@ -1,112 +1,95 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Bassem Samaali
+# 👋 Hi, I'm Bassem Samaali
 
-### 🚀 Software Developer
+### 🤖 AI Engineer | Data Science | Machine Learning | Generative AI
 
-I build modern, scalable, and user-focused applications across **Web Development**, **Backend Engineering**, **AI Agents**, and **Data-Driven Systems**.
+I build intelligent applications and explore the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
-Passionate about creating high-quality software, learning new technologies, and solving real-world problems through code.
+Interested in developing machine learning models, working with Large Language Models (LLMs), building AI agents, and turning data into practical solutions.
 
----
-
-## 💻 Tech Stack
+With a background in Full-Stack Development, I combine software engineering with AI technologies to create scalable, intelligent, and user-focused applications.
 
 ---
 
-### Frontend Development
+## 🧠 AI & Data Science
+
+**Machine Learning & Deep Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
-- ⚛️ React  
-- ▲ Next.js  
-- 🔷 TypeScript  
-- 🟨 JavaScript  
-- 🎨 Tailwind CSS  
-- 🎯 TanStack Query  
-- 📊 TanStack Table  
-- 🧩 shadcn/ui  
+- Python, NumPy, Pandas
+- Scikit-learn
+- PyTorch
+- Neural Networks
+- Model Training & Evaluation
+- Data Analysis & Visualization
+
+**Generative AI & AI Agents**
+
+- Large Language Models (LLMs)
+- LangChain & LangGraph
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Agentic Workflows
+- Prompt Engineering
+- Ollama & Local LLMs
 
 ---
 
-### Backend Development
+## 💻 Software Engineering
+
+**Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,python" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,tailwind" />
 </p>
 
-- 🚀 FastAPI  
-- 🏗️ NestJS  
-- 🐍 Python  
-- REST APIs  
-- Authentication & Authorization  
+- React & Next.js
+- Angular
+- TypeScript & JavaScript
+- Tailwind CSS & shadcn/ui
+- TanStack Query & Table
 
----
-
-### AI & Agent Development
+**Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,fastapi" />
 </p>
 
-- 🤖 LangChain  
-- 🕸️ LangGraph  
-- 🦙 Ollama  
-- AI Agents  
-- RAG Applications  
-- LLM Integrations  
-- Workflow Automation  
+- Python & FastAPI
+- Node.js & NestJS
+- REST API Development
+- Authentication & Authorization
+- Backend Architecture
 
 ---
 
-### Databases & Backend Services
+## 🗄️ Databases & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,docker,git,github" />
 </p>
 
-- 🐘 PostgreSQL  
-- 🐬 MySQL  
-- ⚡ Supabase  
-- Database Design & Modeling  
-- Query Optimization  
-- Database Migrations  
-- Data Integrity & Normalization  
+- PostgreSQL, MySQL, MongoDB
+- Supabase
+- Docker & Docker Compose
+- Git & GitHub
+- Database Design & Modeling
 
 ---
 
-### Data & Analytics
+## 🌱 Exploring & Building
 
-- 📊 Streamlit  
-- 🐼 Pandas  
-- 📈 Data Visualization  
-- Data Processing Pipelines  
-
----
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-- 🐍 Python  
-- ☕ Java  
-- 🌐 C  
+- Machine Learning & Deep Learning
+- Transformers & LLM Architectures
+- Generative AI & RAG Systems
+- Advanced AI Agent Architectures
+- Multi-Agent Systems
+- MLOps & AI Deployment
 
 ---
 
-## 🌱 Currently Exploring
-
-- Advanced AI Agent Architectures  
-- Multi-Agent Systems with LangGraph  
-- FastAPI Best Practices  
-- Software Architecture & Design Patterns  
-- Cloud & DevOps Technologies  
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BassemSamaali&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -117,21 +100,24 @@ Passionate about creating high-quality software, learning new technologies, and 
 
 ## 🎯 Current Focus
 
-- Building AI-powered applications  
-- Developing scalable full-stack systems  
-- Learning modern software architecture  
-- Contributing to impactful projects  
+- Building AI-powered applications.
+- Developing and experimenting with Machine Learning models.
+- Exploring LLMs, Generative AI, and AI Agents.
+- Applying AI to real-world problems.
+- Combining AI with modern software engineering.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-📧 **Email:** [samaalibassem123@gmail.com](mailto:samaalibassem123@gmail.com)
+- **Email:** [samaalibassem123@gmail.com](mailto:samaalibassem123@gmail.com)
+- **LinkedIn:** [Bassem Samaali](https://linkedin.com/in/bassem-samaali/)
+- **Portfolio:** [bs-portfolio-liard.vercel.app](https://bs-portfolio-liard.vercel.app/)
 
 ---
 
 <div align="center">
 
-### ⚡ "Turning ideas into software, one commit at a time."
+### ⚡ Turning data into intelligence, and ideas into solutions.
 
 </div>
